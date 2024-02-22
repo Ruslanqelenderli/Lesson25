@@ -1,0 +1,25 @@
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.exe
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.deps.json
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.runtimeconfig.json
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\Lesson 25.pdb
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewProjects\Lesson 25\Lesson 25\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.AssemblyReference.cache
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson_25.Form1.resources
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.GenerateResource.cache
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.AssemblyInfoInputs.cache
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.AssemblyInfo.cs
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.CoreCompileInputs.cache
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.csproj.CopyComplete
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.dll
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\refint\Lesson 25.dll
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.pdb
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson 25.genruntimeconfig.cache
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\ref\Lesson 25.dll
+D:\NewProjects\Lesson 25\Lesson 25\obj\Debug\net8.0-windows\Lesson_25.UpdateForm.resources
